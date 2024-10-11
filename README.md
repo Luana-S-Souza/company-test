@@ -6,7 +6,6 @@ Este projeto foi elaborado como solução de um teste prático proposto no proce
 
 - **Python**
 - **Selenium**
-- **Logging**
 
 ## 📥 INSTALAÇÃO
 
