@@ -1,1 +1,0 @@
-wait.until(EC.visibility_of_element_located((By.XPATH, '//button[@onclick="cancel(\'{}\')"]'.format(cod_sales_order[i]))))
