@@ -20,7 +20,7 @@ Siga as etapas abaixo para instalar o projeto:
     ```bash
    cd T2C-test
 	```
-4. Instale as dependências necessárias:
+3. Instale as dependências necessárias:
    ```bash
     pip install -r requirements.txt
    ```
