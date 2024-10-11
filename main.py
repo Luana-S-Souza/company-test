@@ -13,7 +13,7 @@ logging.basicConfig(
     ]
 )
 
-logging.info("Iniciando as iinstâncias do Google Chrome")
+logging.info("Iniciando as instâncias do Google Chrome")
 # Instanciando a classe
 bot = Bot()
 # Inicializando uma instância Google Chrome

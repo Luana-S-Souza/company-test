@@ -1,0 +1,85 @@
+2024-10-11 11:24:52 - INFO - Iniciando as iinstâncias do Google Chrome
+2024-10-11 11:24:56 - INFO - Iniciando o funcionamento do robô.
+2024-10-11 11:25:25 - INFO - Janelas abertas e logins efetuados com sucesso
+2024-10-11 11:25:25 - INFO - Filtrando apenas 50 produtos e buscando os status Delivery Outstanding e Confirmed
+2024-10-11 11:25:28 - INFO - Pedidos filtrados com sucesso.
+2024-10-11 11:25:28 - INFO - Iniciando coleta de informações de acordo com o tracking number de cada pedido
+2024-10-11 11:25:40 - INFO - Tracking Number: TR-10135-100  Status Delivery:  Delivered
+
+2024-10-11 11:25:46 - INFO - Tracking Number: TR-10135-101  Status Delivery:  Delivered
+
+2024-10-11 11:25:52 - INFO - Tracking Number: TR-10135-102  Status Delivery:  Delivered
+
+2024-10-11 11:25:57 - INFO - Tracking Number: TR-10135-103  Status Delivery:  Delivered
+
+2024-10-11 11:26:08 - INFO - Botão Generate Invoice clicado para: TR-10135-103
+2024-10-11 11:26:18 - INFO - Tracking Number: TR-10025-100  Status Delivery:  Delivered
+
+2024-10-11 11:26:24 - INFO - Tracking Number: TR-10025-101  Status Delivery:  Delivered
+
+2024-10-11 11:26:29 - INFO - Tracking Number: TR-10025-102  Status Delivery:  Delivered
+
+2024-10-11 11:26:35 - INFO - Tracking Number: TR-10025-103  Status Delivery:  Delivered
+
+2024-10-11 11:26:45 - INFO - Botão Generate Invoice clicado para: TR-10025-103
+2024-10-11 11:26:56 - INFO - Tracking Number: TR-10058-100  Status Delivery:  Label Created
+
+2024-10-11 11:27:01 - INFO - Botão Close clicado para: TR-10058-100
+2024-10-11 11:27:12 - INFO - Tracking Number: TR-10056-100  Status Delivery:  Delivered
+
+2024-10-11 11:27:17 - INFO - Tracking Number: TR-10056-101  Status Delivery:  Delivered
+
+2024-10-11 11:27:28 - INFO - Botão Generate Invoice clicado para: TR-10056-101
+2024-10-11 11:27:38 - INFO - Tracking Number: TR-10088-100  Status Delivery:  Delivered
+
+2024-10-11 11:27:44 - INFO - Tracking Number: TR-10088-101  Status Delivery:  Delivered
+
+2024-10-11 11:27:54 - INFO - Botão Generate Invoice clicado para: TR-10088-101
+2024-10-11 11:28:05 - INFO - Tracking Number: TR-10033-100  Status Delivery:  Delivered
+
+2024-10-11 11:28:10 - INFO - Tracking Number: TR-10033-101  Status Delivery:  Delivered
+
+2024-10-11 11:28:21 - INFO - Botão Generate Invoice clicado para: TR-10033-101
+2024-10-11 11:28:31 - INFO - Tracking Number: TR-10101-100  Status Delivery:  Delivered
+
+2024-10-11 11:28:37 - INFO - Tracking Number: TR-10101-101  Status Delivery:  Delivered
+
+2024-10-11 11:28:42 - INFO - Tracking Number: TR-10101-102  Status Delivery:  Delivered
+
+2024-10-11 11:28:48 - INFO - Tracking Number: TR-10101-103  Status Delivery:  Delivered
+
+2024-10-11 11:28:58 - INFO - Botão Generate Invoice clicado para: TR-10101-103
+2024-10-11 11:29:09 - INFO - Tracking Number: TR-10163-100  Status Delivery:  In transit
+
+2024-10-11 11:29:14 - INFO - Botão Close clicado para: TR-10163-100
+2024-10-11 11:29:24 - INFO - Tracking Number: TR-10185-100  Status Delivery:  Delivered
+
+2024-10-11 11:29:30 - INFO - Tracking Number: TR-10185-101  Status Delivery:  Delivered
+
+2024-10-11 11:29:40 - INFO - Botão Generate Invoice clicado para: TR-10185-101
+2024-10-11 11:29:51 - INFO - Tracking Number: TR-10059-100  Status Delivery:  Delivered
+
+2024-10-11 11:29:57 - INFO - Tracking Number: TR-10059-101  Status Delivery:  Delivered
+
+2024-10-11 11:30:02 - INFO - Tracking Number: TR-10059-102  Status Delivery:  Delivered
+
+2024-10-11 11:30:07 - INFO - Tracking Number: TR-10059-103  Status Delivery:  Delivered
+
+2024-10-11 11:30:18 - INFO - Botão Generate Invoice clicado para: TR-10059-103
+2024-10-11 11:30:28 - INFO - Tracking Number: TR-10103-100  Status Delivery:  Delivered
+
+2024-10-11 11:30:34 - INFO - Tracking Number: TR-10103-101  Status Delivery:  Delivered
+
+2024-10-11 11:30:44 - INFO - Botão Generate Invoice clicado para: TR-10103-101
+2024-10-11 11:30:55 - INFO - Tracking Number: TR-10157-100  Status Delivery:  Delivered
+
+2024-10-11 11:31:01 - INFO - Tracking Number: TR-10157-101  Status Delivery:  Delivered
+
+2024-10-11 11:31:11 - INFO - Botão Generate Invoice clicado para: TR-10157-101
+2024-10-11 11:31:21 - INFO - Tracking Number: TR-10106-100  Status Delivery:  Delivered
+
+2024-10-11 11:31:27 - INFO - Tracking Number: TR-10106-101  Status Delivery:  Delivered
+
+2024-10-11 11:31:37 - INFO - Botão Generate Invoice clicado para: TR-10106-101
+2024-10-11 11:31:37 - INFO - Verificação realizada com sucesso.
+2024-10-11 11:31:37 - INFO - Autmoção finalizada, fechando todas as janelas.
