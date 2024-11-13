@@ -17,7 +17,7 @@ Siga as etapas abaixo para instalar o projeto:
 	```
 2. Navegue até o diretório:
     ```bash
-   cd T2C-test
+   cd company-test
 	```
 3. Instale as dependências necessárias:
    ```bash
