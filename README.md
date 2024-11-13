@@ -1,4 +1,4 @@
-# 🚀 TESTE PRÁTICO T2C
+# 🚀 TESTE PRÁTICO
 
 Este projeto foi elaborado como solução de um teste prático proposto no processo seletivo para a vaga de **Desenvolvedor RPA Pleno**. O teste consiste no desenvolvimento de um robô que é capaz de abrir duas janelas iniciais, navegar entre as abas para filtrar e coletar informações de pedidos de vendas e verificar o status de envio mais recente. Após a verificação, o robô gera a fatura para pedidos enviados e continua até que todos os pedidos sejam processados. Por fim, o robô finaliza a tarefa fechando as abas abertas.
 
