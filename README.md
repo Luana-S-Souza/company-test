@@ -13,7 +13,7 @@ Siga as etapas abaixo para instalar o projeto:
 
 1. Clone o repositório:
     ```bash
-   git clone https://github.com/Luana-S-Souza/T2C-test.git
+   git clone https://github.com/Luana-S-Souza/company-test.git
 	```
 2. Navegue até o diretório:
     ```bash
